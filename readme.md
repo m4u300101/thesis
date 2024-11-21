@@ -40,7 +40,7 @@ the primary ideal function of the web enables free sharing among humans and buil
 
 relinquish your grip. seeking to direct and control people who you otherwise should not be able to control is highly dishonorable, and use of all techniques enabling a website developer to indirectly control users is very shameful.
 
-## 5. do not use design templates, useless languange extensions, css frameworks, or pre-built / pre-styled component libraries.
+## 5. do not use design templates, useless language extensions, css frameworks, or pre-built / pre-styled component libraries.
 
 it is good and often nigh essential to create your own component library for a project. however, it is not acceptable to use pre-created frameworks, such as bootstrap, tailwind, foundation, bulma, or any other thing that provides pre-styled elements. furthermore, do not use pointless libraries such as jquery or lodash. these introduce bloat and discourage skill growth.
 
